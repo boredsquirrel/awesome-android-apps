@@ -3,6 +3,8 @@ Modern, user friendly Apps that I can recommend.
 
 This list should help people with setting up a barebones install of GrapheneOS, LineageOS, etc. or make the switch towards a more privacy friendly phone.
 
+[**Skip the talking, get me to the apps!**](https://github.com/boredsquirrel/awesome-android-apps/blob/main/README.md#recommended-apps)
+
 ## Disclaimers
 Just installing some FOSS (free and open source software) apps on a regular Android phone looking like this, will not make you private, protect your data or the data of your friends and family.
 
